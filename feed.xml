@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>John DeTreville&#x27;s Blog</title>
+    <link href="https://detreville.github.io/feed.xml" rel="self" />
+    <link href="https://detreville.github.io" />
+    <updated>2022-05-14T15:45:05-07:00</updated>
+    <author>
+        <name>John DeTreville</name>
+    </author>
+    <id>https://detreville.github.io</id>
+
+    <entry>
+        <title>Another new post</title>
+        <author>
+            <name>John DeTreville</name>
+        </author>
+        <link href="https://detreville.github.io/another-new-post.html"/>
+        <id>https://detreville.github.io/another-new-post.html</id>
+
+        <updated>2022-05-14T15:39:24-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Here's a new post from John DeTreville!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Here's a new post from John DeTreville!
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The first post to my new blog</title>
+        <author>
+            <name>John DeTreville</name>
+        </author>
+        <link href="https://detreville.github.io/the-first-post-to-my-new-blog.html"/>
+        <id>https://detreville.github.io/the-first-post-to-my-new-blog.html</id>
+
+        <updated>2022-05-14T15:45:05-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the first post to my new blog (and it's about time)! I'm hosting my blog on GitHub Pages. It's dead-simple and free. I started an old blog a few years ago using Jekyll, but I grew tired of wondering whether Jekyll would be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the first post to my new blog (and it's about time)!</p>
+<p>I'm hosting my blog on <a href="https://pages.github.com/" title="GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live." target="_blank" rel="noopener noreferrer">GitHub Pages</a>. It's dead-simple and free.</p>
+<p>I started an old blog a few years ago using <a href="https://jekyllrb.com/" title="Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs" target="_blank" rel="noopener noreferrer">Jekyll</a>, but I grew tired of wondering whether Jekyll would be maintained very far into the future. I finally switched to Publii instead; it's also a static site generator.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

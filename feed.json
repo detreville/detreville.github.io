@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "John DeTreville&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://detreville.github.io",
+    "feed_url": "https://detreville.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "John DeTreville"
+    },
+    "items": [
+        {
+            "id": "https://detreville.github.io/another-new-post.html",
+            "url": "https://detreville.github.io/another-new-post.html",
+            "title": "Another new post",
+            "summary": "Here's a new post from John DeTreville!",
+            "content_html": "\n  <p>\n    Here's a new post from John DeTreville!\n  </p>",
+            "author": {
+                "name": "John DeTreville"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-14T15:39:24-07:00",
+            "date_modified": "2022-05-14T15:39:24-07:00"
+        },
+        {
+            "id": "https://detreville.github.io/the-first-post-to-my-new-blog.html",
+            "url": "https://detreville.github.io/the-first-post-to-my-new-blog.html",
+            "title": "The first post to my new blog",
+            "summary": "This is the first post to my new blog (and it's about time)! I'm hosting my blog on GitHub Pages. It's dead-simple and free. I started an old blog a few years ago using Jekyll, but I grew tired of wondering whether Jekyll would be&hellip;",
+            "content_html": "<p>This is the first post to my new blog (and it's about time)!</p>\n<p>I'm hosting my blog on <a href=\"https://pages.github.com/\" title=\"GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub Pages</a>. It's dead-simple and free.</p>\n<p>I started an old blog a few years ago using <a href=\"https://jekyllrb.com/\" title=\"Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs\" target=\"_blank\" rel=\"noopener noreferrer\">Jekyll</a>, but I grew tired of wondering whether Jekyll would be maintained very far into the future. I finally switched to Publii instead; it's also a static site generator.</p>",
+            "author": {
+                "name": "John DeTreville"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-14T15:26:24-07:00",
+            "date_modified": "2022-05-14T15:45:05-07:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://detreville.github.io/sitemap.xml
