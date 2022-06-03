@@ -3,54 +3,72 @@
     <title>John DeTreville&#x27;s Blog</title>
     <link href="https://detreville.github.io/feed.xml" rel="self" />
     <link href="https://detreville.github.io" />
-    <updated>2022-05-14T15:45:05-07:00</updated>
+    <updated>2022-06-02T16:40:55-07:00</updated>
     <author>
         <name>John DeTreville</name>
     </author>
     <id>https://detreville.github.io</id>
 
     <entry>
-        <title>Another new post</title>
+        <title>Colophon</title>
         <author>
             <name>John DeTreville</name>
         </author>
-        <link href="https://detreville.github.io/another-new-post.html"/>
-        <id>https://detreville.github.io/another-new-post.html</id>
+        <link href="https://detreville.github.io/colophon.html"/>
+        <id>https://detreville.github.io/colophon.html</id>
 
-        <updated>2022-05-14T15:39:24-07:00</updated>
+        <updated>2022-06-02T16:40:55-07:00</updated>
             <summary>
                 <![CDATA[
-                    Here's a new post from John DeTreville!
+                    This blog is hosted at GitHub Pages and constructed using Publii. GitHub Pages is dead-simple and free for personal blogs. This blog is a static website. All pages are served straight from GitHub Pages, with no other server-side processing. I started an old blog a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Here's a new post from John DeTreville!
+    This blog is hosted at GitHub Pages and constructed using Publii.
+  </p>
+
+  <p>
+    GitHub Pages is dead-simple and free for personal blogs.<br><br>This blog is a static website. All pages are served straight from GitHub Pages, with no other server-side processing.
+  </p>
+
+  <p>
+    I started an old blog a few years ago using Jekyll, but I grew tired of wondering whether Jekyll would be maintained very far into the future. I've finally switched to Publii instead; it seems a little more modern. We'll see!
+  </p>
+
+  <p>
+    When I publish a post, I intend not to update it. If an existing post needs updates, I'll mark up the post to show what has been changed.
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>The first post to my new blog</title>
+        <title>A first post to my new blog</title>
         <author>
             <name>John DeTreville</name>
         </author>
         <link href="https://detreville.github.io/the-first-post-to-my-new-blog.html"/>
         <id>https://detreville.github.io/the-first-post-to-my-new-blog.html</id>
 
-        <updated>2022-05-14T15:45:05-07:00</updated>
+        <updated>2022-06-02T16:32:25-07:00</updated>
             <summary>
                 <![CDATA[
-                    This is the first post to my new blog (and it's about time)! I'm hosting my blog on GitHub Pages. It's dead-simple and free. I started an old blog a few years ago using Jekyll, but I grew tired of wondering whether Jekyll would be&hellip;
+                    This is a first post to my new blog (and it's about time)! I'm hosting my blog on GitHub Pages. It's dead-simple and free. I started an old blog a few years ago using Jekyll, but I grew tired of wondering whether Jekyll would be&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is the first post to my new blog (and it's about time)!</p>
+                <p>This is a first post to my new blog (and it's about time)!</p>
 <p>I'm hosting my blog on <a href="https://pages.github.com/" title="GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live." target="_blank" rel="noopener noreferrer">GitHub Pages</a>. It's dead-simple and free.</p>
-<p>I started an old blog a few years ago using <a href="https://jekyllrb.com/" title="Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs" target="_blank" rel="noopener noreferrer">Jekyll</a>, but I grew tired of wondering whether Jekyll would be maintained very far into the future. I finally switched to Publii instead; it's also a static site generator.</p>
+<p>I started an old blog a few years ago using <a href="https://jekyllrb.com/" title="Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs" target="_blank" rel="noopener noreferrer">Jekyll</a>, but I grew tired of wondering whether Jekyll would be maintained very far into the future. I've finally switched to <a href="https://getpublii.com/" title="Static Site CMS to build privacy-focused, fast and SEO-friendly website" target="_blank" rel="noopener noreferrer">Publii</a> instead; it's a different static site generator and seems a little more modern. We'll see!</p>
+<p>I intend to add posts at the rate of about one a week. (I'm retired and have nothing else to do.)</p>
+<p>(This blog is a static website. All pages are served straight from GitHub Pages, with no other server-side processing.)</p>
             ]]>
         </content>
     </entry>
